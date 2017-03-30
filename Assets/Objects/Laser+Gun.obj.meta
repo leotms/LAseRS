@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 2d128f33ba84c3e48a0cdb4c2c7c2fa7
+timeCreated: 1490473548
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box010
+    100002: Box011
+    100004: Box012
+    100006: Box014
+    100008: Box015
+    100010: Box016
+    100012: Box017
+    100014: Capsule001
+    100016: Capsule002
+    100018: Capsule003
+    100020: Capsule004
+    100022: Cylinder001
+    100024: Cylinder011
+    100026: Cylinder012
+    100028: Cylinder013
+    100030: //RootNode
+    100032: Plane002
+    100034: Plane003
+    100036: Plane004
+    100038: Plane005
+    100040: Plane006
+    400000: Box010
+    400002: Box011
+    400004: Box012
+    400006: Box014
+    400008: Box015
+    400010: Box016
+    400012: Box017
+    400014: Capsule001
+    400016: Capsule002
+    400018: Capsule003
+    400020: Capsule004
+    400022: Cylinder001
+    400024: Cylinder011
+    400026: Cylinder012
+    400028: Cylinder013
+    400030: //RootNode
+    400032: Plane002
+    400034: Plane003
+    400036: Plane004
+    400038: Plane005
+    400040: Plane006
+    2300000: Box010
+    2300002: Box011
+    2300004: Box012
+    2300006: Box014
+    2300008: Box015
+    2300010: Box016
+    2300012: Box017
+    2300014: Capsule001
+    2300016: Capsule002
+    2300018: Capsule003
+    2300020: Capsule004
+    2300022: Cylinder001
+    2300024: Cylinder011
+    2300026: Cylinder012
+    2300028: Cylinder013
+    2300030: Plane002
+    2300032: Plane003
+    2300034: Plane004
+    2300036: Plane005
+    2300038: Plane006
+    3300000: Box010
+    3300002: Box011
+    3300004: Box012
+    3300006: Box014
+    3300008: Box015
+    3300010: Box016
+    3300012: Box017
+    3300014: Capsule001
+    3300016: Capsule002
+    3300018: Capsule003
+    3300020: Capsule004
+    3300022: Cylinder001
+    3300024: Cylinder011
+    3300026: Cylinder012
+    3300028: Cylinder013
+    3300030: Plane002
+    3300032: Plane003
+    3300034: Plane004
+    3300036: Plane005
+    3300038: Plane006
+    4300000: Box010
+    4300002: Box011
+    4300004: Box012
+    4300006: Box014
+    4300008: Box015
+    4300010: Box016
+    4300012: Box017
+    4300014: Capsule001
+    4300016: Capsule002
+    4300018: Capsule003
+    4300020: Capsule004
+    4300022: Cylinder001
+    4300024: Cylinder011
+    4300026: Cylinder012
+    4300028: Cylinder013
+    4300030: Plane002
+    4300032: Plane003
+    4300034: Plane004
+    4300036: Plane005
+    4300038: Plane006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

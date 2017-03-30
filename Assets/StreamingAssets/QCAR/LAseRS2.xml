@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cannon_3" size="1.000000 1.429293" />
+    <ImageTarget name="Cannon_2" size="1.000000 1.429293" />
+    <ImageTarget name="Cannon_1" size="1.000000 1.429293" />
+    <ImageTarget name="Robot_3" size="1.000000 1.429293" />
+    <ImageTarget name="Robot_2" size="1.000000 1.429293" />
+    <ImageTarget name="Robot_1" size="1.000000 1.429293" />
+    <ImageTarget name="Mirror" size="1.000000 1.429293" />
+    <ImageTarget name="Rocket" size="1.000000 1.429293" />
+  </Tracking>
+</QCARConfig>

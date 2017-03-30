@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cohete3" size="236.000000 333.000000" />
+    <ImageTarget name="robot3" size="400.000000 400.000000" />
+    <ImageTarget name="robot2" size="300.000000 300.000000" />
+    <ImageTarget name="robot1" size="600.000000 450.000000" />
+    <ImageTarget name="marca_pistola" size="500.000000 257.000000" />
+  </Tracking>
+</QCARConfig>
