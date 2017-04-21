@@ -11,7 +11,7 @@ La funcionalidad principal consiste en el reconocimiento de marcas que contienen
 
 <ul style="display:inline-block;">
 <img alt="Nave" src="https://github.com/leotms/LAseRS/blob/master/Images/Cohete_RA.jpg?raw=true" width="250px" >
-<img alt="Laser Rojo" src="https://github.com/leotms/LAseRS/blob/master/Images/Pistola_LaserRojo_RA.jpg?raw=true" width="250px" >
+<img alt="Laser Rojo" src="https://github.com/leotms/LAseRS/blob/master/Images/Pistola_LaserAmarillo_RA.jpg?raw=true" width="250px" >
 <img alt="Laser Azul" src="https://github.com/leotms/LAseRS/blob/master/Images/Pistola_LaserAzul_RA.jpg?raw=true" width="250px" >
 <img alt="Laser Amarillo" src="https://github.com/leotms/LAseRS/blob/master/Images/Pistola_LaserRojo_RA.jpg?raw=true" width="250px" >
 </ul>
